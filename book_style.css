@@ -1,0 +1,23 @@
+
+    h1 {
+        color: rgb(7, 9, 131);
+        text-align: center;
+    }
+
+    body {
+        background-color: cadetblue;
+    }
+
+    div {
+        border-style: dotted;
+        border-width: 3px;
+        border-color: rgb(7, 9, 131);
+        padding: 40px 10px 10px 40px;
+    }
+    
+    .checked {
+        color: orange;
+    }
+    .rate {
+        color:rgb(7, 9, 131); 
+    }
